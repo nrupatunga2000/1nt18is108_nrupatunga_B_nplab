@@ -1,1 +1,13 @@
-# 1nt18is108_nrupatunga_B_nplab
+Developer roadmap:
+
+Learn the concepts of SQL-
+select 
+where
+like 
+group by 
+order by
+inner, outer, full JOINs
+Union 
+create 
+update 
+
