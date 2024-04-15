@@ -10,4 +10,6 @@ inner, outer, full JOINs
 Union 
 create 
 update 
+delete 
+date format 
 
