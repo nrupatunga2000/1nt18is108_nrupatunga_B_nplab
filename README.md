@@ -11,5 +11,9 @@ Union
 create 
 update 
 delete 
-date format 
+date format
+commit
+rollback
+delete 
+truncate
 
