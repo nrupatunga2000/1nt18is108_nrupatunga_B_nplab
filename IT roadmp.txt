@@ -26,6 +26,7 @@ tables
 button
 checkbox
 images
+hypertext
 
 -----CSS:----------
 backroung colour
@@ -39,6 +40,8 @@ images
 shadow 
 transitions
 border boxing 
+margins
+
 
 
 
