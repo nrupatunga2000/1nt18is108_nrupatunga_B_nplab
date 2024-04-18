@@ -37,7 +37,9 @@ padding
 font size
 images
 shadow 
-transitions 
+transitions
+border boxing 
+
 
 
 
