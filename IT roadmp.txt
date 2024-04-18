@@ -1,5 +1,3 @@
-Developer roadmap:
-
 Learn the concepts of SQL-
 select 
 where
@@ -16,3 +14,32 @@ commit
 rollback
 delete 
 truncate
+==============================================================================================================================
+-----HTML:----------
+skeliton
+headding 
+paragraph
+title 
+list --ordered and un-ordered 
+forms
+tables 
+button
+checkbox
+images
+
+-----CSS:----------
+backroung colour
+font colour 
+text align
+hight 
+width 
+padding
+font size
+images
+shadow 
+transitions 
+
+
+
+
+
