@@ -41,7 +41,8 @@ shadow
 transitions
 border boxing 
 margins
-
+hover
+on cliks 
 
 
 
