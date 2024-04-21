@@ -50,6 +50,7 @@ margins
 hover
 on cliks
 selectors (.class, #id,)
+cursor
 
 ----JavaScript-----------
 
