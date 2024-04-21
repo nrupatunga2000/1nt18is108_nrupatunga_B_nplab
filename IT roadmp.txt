@@ -26,7 +26,10 @@ tables
 button
 checkbox
 images
-hypertext
+hypertext (href)
+id
+class
+source
 
 -----CSS:----------
 backroung colour
