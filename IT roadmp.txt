@@ -1,4 +1,4 @@
-Learn the concepts of SQL-
+----SQL------------------
 select 
 where
 like 
@@ -48,7 +48,13 @@ transitions
 border boxing 
 margins
 hover
-on cliks 
+on cliks
+selectors (.class, #id,)
+
+----JavaScript-----------
+
+
+
 
 
 
