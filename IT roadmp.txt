@@ -32,6 +32,8 @@ id
 class
 source (src)
 Semantic HTML (<header>, <footer>, <nav>, <main>, <section>,<article>)
+HTML features (<audio>,<video>)
+
 -----CSS:----------
 backroung colour
 font colour 
