@@ -31,7 +31,7 @@ hypertext (href)
 id
 class
 source (src)
-
+Semantic HTML (<header>, <footer>, <nav>, <main>, <section>,<article>)
 -----CSS:----------
 backroung colour
 font colour 
