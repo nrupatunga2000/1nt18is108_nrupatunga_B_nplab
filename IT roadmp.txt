@@ -51,6 +51,8 @@ hover
 on cliks
 selectors (.class, #id,)
 cursor
+justify-content
+
 
 ----JavaScript-----------
 
