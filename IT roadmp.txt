@@ -21,7 +21,8 @@ headding
 paragraph
 title 
 list --ordered and un-ordered 
-forms
+forms (<form>, <input>, <select>, <button>)
+
 tables 
 button
 checkbox
@@ -29,7 +30,7 @@ images
 hypertext (href)
 id
 class
-source
+source (src)
 
 -----CSS:----------
 backroung colour
