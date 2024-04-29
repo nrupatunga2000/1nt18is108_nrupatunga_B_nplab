@@ -60,6 +60,7 @@ Data types
 variables 
 conditional statements ( if and else)
 for loop
+While loop
 
 
 
