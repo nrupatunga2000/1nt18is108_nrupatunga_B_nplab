@@ -59,6 +59,7 @@ justify-content
 Data types 
 variables 
 conditional statements ( if and else)
+for loop
 
 
 
